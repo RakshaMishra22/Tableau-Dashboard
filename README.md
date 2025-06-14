@@ -13,7 +13,7 @@ This Tableau dashboard provides an interactive overview of sales performance for
 
 **Features and Highlights**
 **METRICS ANALYSED **  
-✅ **Key KPI's**: Displays total sales (₹2.30M), return rate (5.91%), and profit margin (12.47%). 
+✅ **Key KPI's**: Displays total sales (₹2.30M), return rate (5.91%), and profit margin (12.47%)     
 ✅ **Category Breakdown**: Visualizes sales by category and sub-category to identify best-selling product groups.  
 ✅ **Geographical Insights**: Highlights regional performance with an interactive map of orders by sales.  
 ✅ **Segment Analysis**: Shows sales distribution across Consumer, Corporate, and Home Office segments.  
