@@ -11,15 +11,15 @@ This Tableau dashboard provides an interactive overview of sales performance for
 **📅 Time Period**: All available years  
 **💻 Metrics Analyzed**: Sales, Profit Margin, Return Rate, Orders by Region  
 
-**Features and Highlights**  
+**Features and Highlights**
 **METRICS ANALYSED **  
-✅** Key KPIs**: Displays total sales (₹2.30M), return rate (5.91%), and profit margin (12.47%).  
+✅ **Key KPI's**: Displays total sales (₹2.30M), return rate (5.91%), and profit margin (12.47%). 
 ✅ **Category Breakdown**: Visualizes sales by category and sub-category to identify best-selling product groups.  
 ✅ **Geographical Insights**: Highlights regional performance with an interactive map of orders by sales.  
 ✅ **Segment Analysis**: Shows sales distribution across Consumer, Corporate, and Home Office segments.  
 ✅ **Top Products**: Lists the top 5 products driving the highest sales.  
-✅** Sales Trend**: Presents a clear time-series of sales with average line for quick performance comparison.  
-✅** Interactive Filters**: Allows dynamic filtering by metric, region, and year for flexible exploration.  
+✅ **Sales Trend**: Presents a clear time-series of sales with average line for quick performance comparison.  
+✅ **Interactive Filters**: Allows dynamic filtering by metric, region, and year for flexible exploration.  
 
 
 
