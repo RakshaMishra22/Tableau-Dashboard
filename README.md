@@ -27,4 +27,7 @@ This Tableau dashboard provides an interactive overview of sales performance for
 This dashboard serves as a comprehensive sales and performance report for Superstore USA. It enables managers to quickly grasp critical metrics, uncover sales trends, and pinpoint areas for improvement. Interactive elements and clear visualizations make it an effective tool for data-driven decision making.
 
 
+**🔗 View the Interactive Dashboard:** [Click Here](https://public.tableau.com/app/profile/raksha.mishra4316/viz/Mytableauassingments/Dashboard2)
+
+
 ![Tableau Superstore Dashboard](Tableau%20Superstore%20Dashboard.png)
